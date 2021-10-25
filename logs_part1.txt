@@ -1,0 +1,19 @@
+5bb5c0e (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{0}: merge develop: Fast-forward
+459a8d7 HEAD@{1}: checkout: moving from feature2 to main
+5bb5c0e (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{2}: merge develop: Fast-forward
+7ee96ea HEAD@{3}: checkout: moving from feature1 to feature2
+5bb5c0e (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{4}: merge develop: Fast-forward
+1f8c7d1 HEAD@{5}: checkout: moving from develop to feature1
+5bb5c0e (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{6}: commit (merge): Sixth - merge conflict
+1f8c7d1 HEAD@{7}: merge feature1: Fast-forward
+9488e6f HEAD@{8}: checkout: moving from feature2 to develop
+7ee96ea HEAD@{9}: commit: Fifth
+9488e6f HEAD@{10}: checkout: moving from develop to feature2
+9488e6f HEAD@{11}: checkout: moving from feature1 to develop
+1f8c7d1 HEAD@{12}: commit: Fourth
+2c39a92 HEAD@{13}: commit: Third
+9488e6f HEAD@{14}: checkout: moving from develop to feature1
+9488e6f HEAD@{15}: commit: Second
+459a8d7 HEAD@{16}: checkout: moving from main to develop
+459a8d7 HEAD@{17}: commit (initial): First
+(END)
